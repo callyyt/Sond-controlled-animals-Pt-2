@@ -1,0 +1,32 @@
+html {
+    font-family: 'Fuzzy Bubbles', cursive;
+    font-size:small;
+}
+
+body
+{
+ color:rgb(84, 99, 69);
+ background-color: rgb(255, 220, 236);
+}
+
+.header_div
+{
+    background: #fee4f3;
+    font-family: 'Fuzzy Bubbles', cursive;
+}
+
+.copy_right_footer {
+    color: #b69a69;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: #fee5f0;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px #957c50;
+}
+
+.main_div
+{
+  padding-top: 10%;
+}
